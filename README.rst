@@ -10,6 +10,8 @@ DVPWA -- Damn Vulnerable Python Web Application
 Description
 ===========
 
+
+
 DVPWA was inspired by famous `dvwa`_ project and `bobby-tables xkcd comics`_.
 The purpose of this project is to implement real-world like application in
 Python with as many vulnerabilities as possible while having a good design and
